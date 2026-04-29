@@ -24,6 +24,10 @@ We follow the [Ansible Code of Conduct](https://docs.ansible.com/projects/ansibl
 
 If you encounter abusive behavior, please refer to the [policy violations](https://docs.ansible.com/projects/ansible/devel/community/code_of_conduct.html#policy-violations) section of the Code for information on how to raise a complaint.
 
+## AI Policy
+
+We follow the [Ansible Community Policy for AI-Assisted Contributions](https://docs.ansible.com/projects/ansible/devel/community/ai_policy.html) when contributing to this project.
+
 ## Communication
 
 <!--
