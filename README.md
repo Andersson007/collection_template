@@ -26,7 +26,7 @@ If you encounter abusive behavior, please refer to the [policy violations](https
 
 ## AI Policy
 
-We follow the [Ansible Community Policy for AI-Assisted Contributions](https://docs.ansible.com/projects/ansible/devel/community/ai_policy.html) when contributing to this project.
+This project follows the [Ansible Community Policy for AI-Assisted Contributions](https://docs.ansible.com/projects/ansible/devel/community/ai_policy.html).
 
 ## Communication
 
